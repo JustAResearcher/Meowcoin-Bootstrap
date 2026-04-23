@@ -1,0 +1,6 @@
+bootstrap.dat
+bootstrap.dat.xz
+bootstrap.dat.sha256
+bootstrap.dat.xz.sha256
+*.pyc
+__pycache__/
