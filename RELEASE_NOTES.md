@@ -2,7 +2,7 @@
 
 Snapshot of the Meowcoin mainnet chain up to block **1,884,606**. Use this to skip the slow initial sync on a new node.
 
-> ⚠️ **Requires Meowcoin Core v30.2.0 or later (APEX).** The legacy v3.x wallet will not accept these blocks.
+Works with **both** Meowcoin Core v3.0.6 (legacy) and v30.2.0+ (APEX) wallets — same chain, same wire format.
 
 ## Files
 
