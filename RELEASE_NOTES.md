@@ -2,6 +2,8 @@
 
 Snapshot of the Meowcoin mainnet chain up to block **1,884,606**. Use this to skip the slow initial sync on a new node.
 
+> ⚠️ **Requires Meowcoin Core v30.2.0 or later (APEX).** The legacy v3.x wallet will not accept these blocks.
+
 ## Files
 
 - `bootstrap.dat.xz` — 1.24 GB compressed (3 GB uncompressed)

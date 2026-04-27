@@ -4,6 +4,8 @@ Skip the slow first sync. Drop this file into your Meowcoin folder and you're ca
 
 **Covers:** mainnet up to block 1,884,606 (April 22, 2026)
 
+> ⚠️ **Requires Meowcoin Core v30.2.0 or later (the APEX wallet).** The older v3.x wallet cannot use this bootstrap — it doesn't understand APEX blocks (16 MB blocks, SegWit, Taproot). Upgrade your wallet first. Download: [Meowcoin-Foundation/Meowcoin releases](https://github.com/Meowcoin-Foundation/Meowcoin/releases).
+
 ---
 
 ## How to use it
